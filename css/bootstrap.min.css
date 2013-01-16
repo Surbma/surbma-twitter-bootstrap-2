@@ -289,6 +289,8 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
 .nav-tabs>li{margin:0 0 -1px 0 !important;list-style:none !important;}
 .nav > li > a {text-decoration: none;}
 /*.tab-content .tab-pane,.pill-content .pill-pane{padding: 1em 0;}*/
+.alert h4 {margin: 0 !important;}
+.alert-block > p, .alert-block > ul {margin-bottom: 0 !important;}
 span.tip,span.pop{border-bottom: 1px dotted #ccc;cursor:help;}
 .popover-title{margin:0 !important;}
 .modal-header *{padding:0 !important;margin:0 !important;}
