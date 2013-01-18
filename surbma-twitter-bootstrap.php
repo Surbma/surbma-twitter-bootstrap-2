@@ -4,7 +4,7 @@
 Plugin Name: Surbma - Twitter Bootstrap
 Plugin URI: http://surbma.com/
 Description: Twitter Bootstrap styles
-Version: 130116.1
+Version: 130118
 Author: Surbma
 Author URI: http://surbma.com/
 License: GPL2
