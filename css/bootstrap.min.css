@@ -228,7 +228,7 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
 .fade{opacity:0;-webkit-transition:opacity 0.15s linear;-moz-transition:opacity 0.15s linear;-o-transition:opacity 0.15s linear;transition:opacity 0.15s linear;}.fade.in{opacity:1;}
 .collapse{position:relative;height:0;overflow:hidden;-webkit-transition:height 0.35s ease;-moz-transition:height 0.35s ease;-o-transition:height 0.35s ease;transition:height 0.35s ease;}.collapse.in{height:auto;}
 
-/*.nav-tabs{margin:0 !important;padding:0 !important;}*/
+.nav-tabs{margin:0 0 20px !important;padding:0 !important;}
 .nav-tabs>li{margin:0 0 -1px 0 !important;list-style:none !important;}
 .nav > li > a {text-decoration: none;}
 /*.tab-content .tab-pane,.pill-contenttent .pill-pane{padding: 1em 0;}*/
