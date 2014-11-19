@@ -1,13 +1,11 @@
-surbma-twitter-bootstrap
+Surbma - Twitter Bootstrap 2
 =========
-
-Surbma - Twitter Bootstrap
 
 Changelog
 ===========
 
 ### 121008
-* Initial Public Release
+* Initial Release
 
 Credits
 ===========
