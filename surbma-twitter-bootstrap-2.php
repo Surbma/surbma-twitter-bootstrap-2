@@ -5,7 +5,7 @@ Plugin Name: Surbma - Twitter Bootstrap 2
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Twitter Bootstrap 2 styles.
 
-Version: 1.5.0
+Version: 1.5.1
 
 Author: Surbma
 Author URI: http://surbma.com/
