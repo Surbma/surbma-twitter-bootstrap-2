@@ -5,7 +5,7 @@ Plugin Name: Surbma - Twitter Bootstrap 2
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Twitter Bootstrap 2 styles.
 
-Version: 1.5.1
+Version: 1.5.2
 
 Author: Surbma
 Author URI: http://surbma.com/
@@ -61,3 +61,4 @@ $allowedposttags['a'] = array(
 	'data-parent' => array(),
 	'data-dismiss' => array()
 );
+$allowedposttags = array_map( '_wp_add_global_attributes', $allowedposttags );

@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: twitter bootstrap, twitter, bootstrap
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.5.1
+Stable tag: 1.5.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,11 @@ Twitter Bootstrap 2 styles.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.5.2 =
+
+- Added pot file for localization
+- Fixed $allowedposttags missing global attributes.
 
 = 1.5.1 =
 

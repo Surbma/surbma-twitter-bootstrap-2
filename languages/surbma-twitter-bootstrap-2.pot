@@ -1,0 +1,33 @@
+# Copyright (C) 2014 Surbma - Twitter Bootstrap 2
+# This file is distributed under the same license as the Surbma - Twitter Bootstrap 2 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Surbma - Twitter Bootstrap 2 1.5.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/surbma-twitter-bootstrap-2\n"
+"POT-Creation-Date: 2014-12-02 09:22:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Surbma - Twitter Bootstrap 2"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://surbma.com/wordpress-plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Twitter Bootstrap 2 styles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Surbma"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://surbma.com/"
+msgstr ""
