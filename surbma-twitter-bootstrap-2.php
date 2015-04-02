@@ -5,7 +5,7 @@ Plugin Name: Surbma - Twitter Bootstrap 2
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Twitter Bootstrap 2 styles.
 
-Version: 1.5.2
+Version: 1.5.3
 
 Author: Surbma
 Author URI: http://surbma.com/
@@ -16,11 +16,16 @@ Text Domain: surbma-twitter-bootstrap-2
 Domain Path: /languages/
 */
 
+// Prevent direct access to the plugin
+if ( !defined( 'ABSPATH' ) ) {
+	die( 'Good try! :)' );
+}
+
 // Localization
 function surbma_twitter_bootstrap_2_init() {
-	load_plugin_textdomain( 'surbma-twitter-bootstrap-2', false, dirname( plugin_basename( __FILE__ ) . '/languages/' ) );
+	load_plugin_textdomain( 'surbma-twitter-bootstrap-2', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
-add_action( 'init', 'surbma_twitter_bootstrap_2_init' );
+add_action( 'plugins_loaded', 'surbma_twitter_bootstrap_2_init' );
 
 function surbma_twitter_bootstrap_2_scripts() {
 ?><script type="text/javascript">
